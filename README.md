@@ -2,10 +2,10 @@
 Hi 👋 My name is Fantin Elallouf
 ================================
 
-Student in IT in Toulouse. 
-Love absurd stuff ... 
-Ideas always flow, but finishing? That's a work in progress... 
-***\<WIP>*** ~~blablabla~~ ***\</WIP>***
+Student in IT in Toulouse.  
+Love absurd stuff ...  
+Ideas always flow, but finishing? That's a work in progress...  
+***\<WIP>*** ~~blablabla~~ ***\</WIP>***  
 
 * 🌍  I'm based in France 🇫🇷
 * 🖥️  See my portfolio at [my dusty website](http://https://fantin.netlify.app/)
