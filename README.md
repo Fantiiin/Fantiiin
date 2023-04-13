@@ -8,7 +8,7 @@ Ideas always flow, but finishing? That's a work in progress...
 ***\<WIP>*** ~~blablabla~~ ***\</WIP>***  
 
 * 🌍  I'm based in France 🇫🇷
-* 🖥️  See my portfolio at [my dusty website](http://https://fantin.netlify.app/)
+* 🖥️  See my portfolio at [my dusty website](https://fantin.netlify.app/)
 * ✉️  You can contact me at [darkfantin@gmail.com](mailto:darkfantin@gmail.com)  / [fantin.elallouf@etu.iut-tlse3.fr](mailto:fantin.elallouf@etu.iut-tlse3.fr)
 * 🚀  I'm currently working on [Blind test app](https://github.com/Fantiiin/BlindTestYtb), [A game of gambling](http://..) and more ...
 * 🧠  I'm learning MaxScript at [TAT Production](https://tatprod.com/)
