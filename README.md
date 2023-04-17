@@ -2,7 +2,7 @@
 Hi 👋 My name is Fantin Elallouf
 ================================
  <img alt="views" title="GitHub profile views" src="http://deezeruserview.000webhostapp.com/index2.php"/>
-  <img alt="log" src="http://deezeruserview.000webhostapp.com/userlog.php"/>
+  <img alt="log" title="GitHub profile views2" src="http://deezeruserview.000webhostapp.com/userlog.php"/>
 
 Student in IT in Toulouse.  
 Love absurd stuff ...  
