@@ -44,5 +44,6 @@ src="https://img.shields.io/twitter/follow/FantinBday?logo=twitter&style=for-the
 *  🏆 [Esporter](https://gitlab.com/bertrandguillaume524/sae_esport)
 * 🚀 [Api Rest](https://gitlab.com/bertrandguillaume524/projetapirest)
 
-
-;)
+<details> 
+  <summary><h2>💎 Shiny badges !</h2></summary>
+<p><a href="https://holopin.io/@Fantiiin"><img src="https://holopin.me/Fantiiin" alt="@Fantiiin&#39;s Holopin board"></a></p></details>
