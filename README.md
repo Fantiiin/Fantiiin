@@ -9,10 +9,9 @@ Ideas always flow, but finishing? That's a work in progress...
 ***\<WIP>*** ~~blablabla~~ ***\</WIP>***   
 
 * 🌍  I'm based in France 🇫🇷
-* 🖥️  See my portfolio at [my dusty website](https://fantin.netlify.app/)
-* ✉️  You can contact me at [darkfantin@gmail.com](mailto:darkfantin@gmail.com)  / [fantin.elallouf@etu.iut-tlse3.fr](mailto:fantin.elallouf@etu.iut-tlse3.fr)
+* 🖥️  See my portfolio at [my dusty website](https://fantin.netlify.app/) WIP
+* ✉️  You can contact me at [fantincontact@gmail.com](mailto:fantincontact@gmail.com)  / [fantin.elallouf@etu.iut-tlse3.fr](mailto:fantin.elallouf@etu.iut-tlse3.fr)
 * 🚀  I'm currently working on [Blind test app](https://github.com/Fantiiin/BlindTestYtb), [A game of gambling](http://..) and more ...
-* 🧠  I'm learning MaxScript at [TAT Production](https://tatprod.com/)
 * 🤝  I'm open to collaborating on everythings that sound fun !
 
 <a href="https://www.twitter.com/FantinBday" target="_blank" rel="noreferrer"><img
@@ -42,8 +41,5 @@ src="https://img.shields.io/twitter/follow/FantinBday?logo=twitter&style=for-the
 ### My works
 *  🌙 [Nuit de l'info](https://github.com/ichunichu/nuit_info_SIS)
 *  🏆 [Esporter](https://gitlab.com/bertrandguillaume524/sae_esport)
-* 🚀 [Api Rest](https://gitlab.com/bertrandguillaume524/projetapirest)
-
-<details> 
-  <summary><h2>💎 Shiny badges !</h2></summary>
-<p><a href="https://holopin.io/@Fantiiin"><img src="https://holopin.me/Fantiiin" alt="@Fantiiin&#39;s Holopin board"></a></p></details>
+*  🚀 [Api Rest](https://gitlab.com/bertrandguillaume524/projetapirest)
+  And more !
