@@ -41,5 +41,5 @@ Ideas always flow, but finishing? That's a work in progress...
 *  🌕 [Nuit de l'info 2023](https://github.com/fortwoone/n2i-2023-tougaougweb)
 *  🏆 [Esporter](https://gitlab.com/bertrandguillaume524/sae_esport)
 *  🚀 [Api Rest](https://gitlab.com/bertrandguillaume524/projetapirest)
-*  🐸 [TAT Production - The jungle bunch movie](https://www.youtube.com/watch?v=8vKd68sHQYY) 
+*  🐸 [TAT Production - The jungle bunch movie](https://www.youtube.com/watch?v=8vKd68sHQYY)  
   And more !
