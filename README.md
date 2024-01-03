@@ -11,12 +11,10 @@ Ideas always flow, but finishing? That's a work in progress...
 * 🌍  I'm based in France 🇫🇷
 * 🖥️  See my portfolio at [my dusty website](https://fantin.netlify.app/) WIP
 * ✉️  You can contact me at [fantincontact@gmail.com](mailto:fantincontact@gmail.com)  / [fantin.elallouf@etu.iut-tlse3.fr](mailto:fantin.elallouf@etu.iut-tlse3.fr)
-* 🚀  I'm currently working on [Blind test app](https://github.com/Fantiiin/BlindTestYtb), [A game of gambling](http://..) and more ...
+* 🚀  I'm currently working on a new portfolio and at [Phygitags](https://www.phygitags.com/en/) 
 * 🤝  I'm open to collaborating on everythings that sound fun !
 
-<a href="https://www.twitter.com/FantinBday" target="_blank" rel="noreferrer"><img
-src="https://img.shields.io/twitter/follow/FantinBday?logo=twitter&style=for-the-badge&color=0891b2&labelColor=1c1917"
-/></a>
+
 
 ### Skills
 
@@ -39,7 +37,9 @@ src="https://img.shields.io/twitter/follow/FantinBday?logo=twitter&style=for-the
 </p>
 
 ### My works
-*  🌙 [Nuit de l'info](https://github.com/ichunichu/nuit_info_SIS)
+*  🌙 [Nuit de l'info 2022](https://github.com/ichunichu/nuit_info_SIS)
+*  🌕 [Nuit de l'info 2023](https://github.com/fortwoone/n2i-2023-tougaougweb)
 *  🏆 [Esporter](https://gitlab.com/bertrandguillaume524/sae_esport)
 *  🚀 [Api Rest](https://gitlab.com/bertrandguillaume524/projetapirest)
+*  🐸 [TAT Production - The jungle bunch movie](https://www.youtube.com/watch?v=8vKd68sHQYY) 
   And more !
