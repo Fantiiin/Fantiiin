@@ -11,7 +11,7 @@ Ideas always flow, but finishing? That's a work in progress...
 * 🌍  I'm based in France 🇫🇷
 * 🖥️  See my portfolio at [my dusty website](https://fantin.netlify.app/) WIP
 * ✉️  You can contact me at [fantincontact@gmail.com](mailto:fantincontact@gmail.com)  / [fantin.elallouf@etu.iut-tlse3.fr](mailto:fantin.elallouf@etu.iut-tlse3.fr)
-* 🚀  I'm currently working on a new portfolio and at [Phygitags](https://www.phygitags.com/en/) 
+* 🚀  I'm currently working on a new portfolio
 * 🤝  I'm open to collaborating on everythings that sound fun !
 
 
